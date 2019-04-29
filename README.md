@@ -1,5 +1,11 @@
 This is my loader from Selly, decided to self leak since so many people are already leaking it. Enjoy
 
+# Support
+
+I have made a new Discord for support: https://discord.gg/J8HNrPG
+
+My current account is Thaisen#9999
+
 # Web Files
 For the provided web-file just update the SQL login info and it should work perfectly.
 
