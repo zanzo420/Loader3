@@ -1,3 +1,5 @@
+# If you are looking for a secure loader with amazing support, head to [Vanguard Loaders](https://vanguardloaders.com) and use promo code "THAISEN" for 10% off your first invoice!
+
 This is my loader from Selly, decided to self leak since so many people are already leaking it. Enjoy
 
 # Support
