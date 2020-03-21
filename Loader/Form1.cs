@@ -28,6 +28,8 @@ namespace Loader
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            MessageBox.Show("Head to VanguardLoaders.com for a secure loader! Use promo code THAISEN for 10% off your first invoice");
+        
             version = 1008;
 
             var ping = new System.Net.NetworkInformation.Ping();
